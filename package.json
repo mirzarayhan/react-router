@@ -9,8 +9,11 @@
     "bootstrap": "^4.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "redux": "^4.0.5",
+    "register-service-worker": "^1.7.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
@@ -36,5 +39,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Nama        : Mirza Zarqani Rayhan",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzarayhan/react-router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzarayhan/react-router/issues"
+  },
+  "homepage": "https://github.com/mirzarayhan/react-router#readme"
 }
